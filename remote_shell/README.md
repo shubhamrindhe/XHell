@@ -14,5 +14,5 @@
 >_ ./string.out HOST PORT
 ```
 ### Defaults
-PORT 8080
-HOST 127.0.0.1
+* PORT 8080
+* HOST 127.0.0.1
